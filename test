@@ -1,1 +1,3 @@
-M=B|(C;D)
+C=A;B
+B=D;F
+M=(L|C);K
