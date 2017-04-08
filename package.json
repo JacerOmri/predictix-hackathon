@@ -1,0 +1,28 @@
+{
+  "name": "predictix-hackathon",
+  "version": "1.0.0",
+  "description": "code for predictix hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "./index.js < package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JacerOmri/predictix-hackathon.git"
+  },
+  "keywords": [
+    "parsing",
+    "graph"
+  ],
+  "author": "Jacer Omri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacerOmri/predictix-hackathon/issues"
+  },
+  "homepage": "https://github.com/JacerOmri/predictix-hackathon#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "lodash": "^4.17.4"
+  }
+}
